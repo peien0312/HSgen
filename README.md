@@ -1,0 +1,2 @@
+# HSgen
+HearthStoneCardGenerator
