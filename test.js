@@ -1,5 +1,3 @@
-Vue.Proto;
-
 var vm = new Vue({
   el: "#app",
   data: {
